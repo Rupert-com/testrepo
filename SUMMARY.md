@@ -1,3 +1,3 @@
 # Table of contents
 
-* [modes](README.md)
+* [v1](README.md)
